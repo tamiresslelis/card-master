@@ -1,49 +1,54 @@
 /* add your CSS here */
-
-.content{
-  height: 788px; /* referente a imagem*/
-  width: 516px;/* referente a imagem*/
+.content {
+  width: 324px;/* referente a imagem*/
   border: 1px solid black;
-  box-shadow: 10px 10px 5px 0px #b0b0b0;
+  box-shadow: 10px 10px 5px  #b0b0b0;
   text-align: justify;
 }
-h3{
+
+h3 {
   margin: 12px;
   padding-top: 12px;
   padding-bottom: 0px;
 }
-#image{
+
+#image {
   margin: 12px;
   margin-bottom: 0px;
   width: 300px;
-  border:2px;
+  border: 2px;
 }
-.information{
+
+.information {
     border: 1px solid #949194;
     margin: 12px;
     width: 300px;
 }
-.interesting{
+
+.interesting {
   font-style: italic;
   padding: 12px;
   padding-right:  12px;
   padding-top: 20px;
   margin: 0px;
   padding-bottom: 0px;
+}
 
+.list-information-dog {
+  padding-left: 12px;
+  padding-right: 12px;
 }
-.list-information-dog{
-  padding-left:  12px;
-  padding-right:  12px;
-}
-li{
+
+li {
   list-style: none;
 
 }
-.list{
+
+.list {
   font-weight: bold;
 }
-.description{
-    padding-left:  12px;
-    padding-right:  12px;
+
+.description {
+    padding-left: 12px;
+    padding-right: 12px;
 }
